@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tanisha60
 - 👀 I’m interested in coding in C++/JavaScript/python.
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on C++/JavaScript/python Projects.
 - 📫 How to reach me tanisha60.
 - tanishadhiman60@gmail.com
